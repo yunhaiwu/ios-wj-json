@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C6261628B7A2BA14B6D9E33253F964EBB1D93FD6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C6261628B7A2BA14B6D9E33253F964EBB1D93FD6" : 0,
+    "1748998375FC8BFB8316FA58F7BB192419D01240" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F1BB0691-177B-4B47-91A4-672F02EFF32A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C6261628B7A2BA14B6D9E33253F964EBB1D93FD6" : "WJJSON\/",
+    "1748998375FC8BFB8316FA58F7BB192419D01240" : "iOS-WJJSON"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WJJSON-example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/WJJSON-example\/WJJSON-example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/halayun\/iOS-WJJSON.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1748998375FC8BFB8316FA58F7BB192419D01240"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/gitlab.jucaicat.net\/iOS-Framework\/WJJSON.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6261628B7A2BA14B6D9E33253F964EBB1D93FD6"
+    }
+  ]
+}

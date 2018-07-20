@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1BB0691-177B-4B47-91A4-672F02EFF32A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WJJSON-example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1748998375FC8BFB8316FA58F7BB192419D01240</key>
+		<string>https://git.coding.net/halayun/iOS-WJJSON.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/WJJSON-example/WJJSON-example.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1748998375FC8BFB8316FA58F7BB192419D01240</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.coding.net/halayun/iOS-WJJSON.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1748998375FC8BFB8316FA58F7BB192419D01240</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1748998375FC8BFB8316FA58F7BB192419D01240</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-WJJSON</string>
+		</dict>
+	</array>
+</dict>
+</plist>
