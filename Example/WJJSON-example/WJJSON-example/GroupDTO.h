@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "WJJSON.h"
 
-@interface GroupDTO : NSObject<IWJJSONObject>
+@interface GroupDTO : NSObject
 
 @property(nonatomic, copy) NSString *name;
 @property(nonatomic, copy) NSString *number;

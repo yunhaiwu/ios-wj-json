@@ -90,4 +90,9 @@
 //    user.date4 = [NSDate date];
     return user;
 }
+
++(NSDictionary *)wjPropertyToJsonPropertyDictionary {
+    return @{@"login":@"loginX"};
+}
+
 @end

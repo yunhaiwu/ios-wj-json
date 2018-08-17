@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "WJJSON.h"
 
-@interface ProductDTO : NSObject<IWJJSONObject>
+@interface ProductDTO : NSObject
 
 @property (nonatomic, copy) NSString *productId1;
 @property (nonatomic, copy) NSString *productId2;

@@ -11,7 +11,7 @@
 #import "ProductDTO.h"
 #import "GroupDTO.h"
 
-@interface UserDTO : NSObject<IWJJSONObject>
+@interface UserDTO : NSObject
 
 @property (nonatomic, copy) NSString *name;
 @property (nonatomic, copy) NSString *name2;

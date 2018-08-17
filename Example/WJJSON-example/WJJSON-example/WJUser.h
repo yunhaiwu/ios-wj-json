@@ -10,7 +10,7 @@
 #import "WJJSON.h"
 
 
-@interface WJUser : NSObject<IWJJSONObject>
+@interface WJUser : NSObject
 @property (nonatomic, copy) NSString *login;
 @property (nonatomic, assign) UInt64 userID;
 @property (nonatomic, copy) NSString *avatarURL;

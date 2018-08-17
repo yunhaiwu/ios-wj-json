@@ -19,7 +19,7 @@
 
 @implementation ViewController
 
-static long count = 10000;
+static long count = 1;
 
 -(void) testToJson {
     NSMutableString *logString = [[NSMutableString alloc] initWithFormat:@"\n\n\n ---------- 测试 %li条数据 toJson begin ---------- \n",count];
@@ -33,7 +33,7 @@ static long count = 10000;
     }
     begin = CACurrentMediaTime();
     for (WJUser *user in users) {
-        [WJJSON toJsonString:user];
+        NSLog(@"%@",[WJJSON toJsonString:user]);
     }
     end = CACurrentMediaTime();
     [logString appendString:@"\n"];
@@ -70,6 +70,8 @@ static long count = 10000;
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    
     
     [self testToJson];
     [self testFromJson];

@@ -10,7 +10,6 @@
 
 @implementation UserDTO
 
-
 +(NSString *)wjPropertyDateFormatString:(NSString *)property {
     return @"YYYY-MM-dd HH:mm:ss";
 }

@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "WJJSON"
-  s.version      = "1.0"
+  s.version      = "1.0.1"
   s.summary      = "基于NSJSONSerialization封装的JSON库."
 
   s.description  = <<-DESC
